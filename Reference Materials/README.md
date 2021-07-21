@@ -1,1 +1,1 @@
-Conatians ML and CVI codes and algorithms for reference. 
+Reference materials for ML and CVI. 
